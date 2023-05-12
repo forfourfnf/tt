@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="shaggy_phantom.png">
+<TextureAtlas imagePath="Beast.png">
 	<!-- Created with Adobe Animate version 21.0.0.35450 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="phantom_down0000" x="2343" y="3324" width="771" height="598" frameX="0" frameY="-27" frameWidth="771" frameHeight="626"/>

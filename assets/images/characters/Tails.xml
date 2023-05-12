@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="shaggy.png">
+<TextureAtlas imagePath="Tails.png">
 	<!-- Created with Adobe Animate version 21.0.0.35450 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="burst0000" x="1867" y="4244" width="545" height="268" frameX="-313" frameY="-305" frameWidth="1218" frameHeight="633"/>
