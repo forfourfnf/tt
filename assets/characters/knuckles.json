@@ -1,110 +1,78 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				165,
-				-114
-			],
 			"loop": false,
-			"anim": "singLEFT",
-			"fps": 30,
-			"name": "shaggy_left",
-			"indices": []
-		},
-		{
 			"offsets": [
-				-10,
-				-160
+				5,
+				50
 			],
-			"loop": false,
-			"anim": "singDOWN",
-			"fps": 30,
-			"name": "shaggy_down",
-			"indices": []
-		},
-		{
-			"offsets": [
-				-16,
-				27
-			],
-			"loop": false,
 			"anim": "singUP",
-			"fps": 30,
-			"name": "shaggy_up",
+			"fps": 24,
+			"name": "Knux Up",
 			"indices": []
 		},
 		{
-			"offsets": [
-				-1,
-				-43
-			],
 			"loop": false,
+			"offsets": [
+				0,
+				-66
+			],
 			"anim": "singRIGHT",
-			"fps": 30,
-			"name": "shaggy_right",
+			"fps": 24,
+			"name": "Knux Right",
 			"indices": []
 		},
 		{
+			"loop": false,
+			"offsets": [
+				42,
+				-62
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Knux Left",
+			"indices": []
+		},
+		{
+			"loop": true,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
 			"anim": "idle",
-			"fps": 30,
-			"name": "shaggy_idle0",
+			"fps": 24,
+			"name": "Knux Idle",
 			"indices": []
 		},
 		{
-			"offsets": [
-				-1,
-				0
-			],
 			"loop": false,
-			"fps": 30,
-			"anim": "idle2",
-			"name": "shaggy_idle2"
-		},
-		{
 			"offsets": [
-				33,
-				0
+				0,
+				-96
 			],
-			"loop": false,
-			"anim": "standUP",
-			"fps": 30,
-			"name": "shaggy_stand0",
-			"indices": []
-		},
-		{
-			"offsets": [
-				29,
-				-218
-			],
-			"loop": false,
-			"anim": "sit",
-			"fps": 30,
-			"name": "shaggy_sit0",
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Knux Down",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/shaggy_red",
+	"image": "characters/KnucklesEXE",
 	"position": [
+		90,
+		270
+	],
+	"healthicon": "knuckles",
+	"flip_x": false,
+	"healthbar_colors": [
+		135,
 		0,
 		0
 	],
-	"healthicon": "rshaggy",
-	"flip_x": false,
-	"healthbar_colors": [
-		209,
-		26,
-		26
-	],
 	"camera_position": [
-		-30,
-		50
+		0,
+		0
 	],
-	"sing_duration": 6.1,
+	"sing_duration": 4,
 	"scale": 1
 }

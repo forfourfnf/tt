@@ -3,76 +3,87 @@
 		{
 			"loop": false,
 			"offsets": [
-				131,
-				-94
+				84,
+				241
 			],
-			"anim": "singLEFT",
-			"fps": 30,
-			"name": "b_Left",
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Eggman_Up",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				104,
-				-140
+				131,
+				182
 			],
-			"anim": "singDOWN",
+			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "b_Down",
+			"name": "Eggman_Right",
 			"indices": []
 		},
 		{
 			"loop": false,
+			"offsets": [
+				234,
+				97
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Eggman_Left",
+			"indices": []
+		},
+		{
+			"loop": true,
 			"offsets": [
 				0,
 				0
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "b_Idle",
+			"name": "Eggman_Idle",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				119,
-				-106
+				130,
+				-95
 			],
-			"anim": "singRIGHT",
+			"anim": "singDOWN",
 			"fps": 24,
-			"name": "b_Right",
+			"name": "Eggman_Down",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-16,
-				115
+				5,
+				205
 			],
-			"anim": "singUP",
+			"anim": "Laugh",
 			"fps": 24,
-			"name": "b_Up",
+			"name": "Eggman_Laugh",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/shaggy_green",
+	"image": "characters/eggman_soul",
 	"position": [
-		0,
-		0
+		50,
+		170
 	],
-	"healthicon": "wbshaggy",
+	"healthicon": "deadeggman",
 	"flip_x": false,
 	"healthbar_colors": [
-		0,
-		0,
+		180,
+		140,
 		0
 	],
 	"camera_position": [
-		-210,
-		50
+		0,
+		0
 	],
-	"sing_duration": 6.1,
+	"sing_duration": 4,
 	"scale": 1
 }
